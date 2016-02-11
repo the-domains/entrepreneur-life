@@ -1,14 +1,26 @@
-layout_spectrum: 0.9301075
 color:
   saturation: 0.8540989
-  lightness: 0.6607167
   brandStrength: 0.4897064
+  rhythmicContrast: 0.1072494
   brandColors:
     - '#161D21'
     - '#A4D7FF'
     - '#FFFFFF'
     - '#666664'
     - '#A4A19B'
-  rhythmicContrast: 0.1072494
+  lightness: 0.6607167
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9301075
 typography_spectrum: 0.327957
 name: Entrepreneur Life
