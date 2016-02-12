@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Masamune]]></title>
-        <description><![CDATA[Masamune]]></description>
+        <title><![CDATA[PETER'S EXPERIMENT]]></title>
+        <description><![CDATA[PETER'S EXPERIMENT]]></description>
         <link>https://thegrid.ai/entrepreneur-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 01:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 08:14:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/entrepreneur-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e0cec9-09ec-4dfd-a893-ab02ac748e36.png">]]></description>
+            <link>https://thegrid.ai/entrepreneur-life/fc8b8976-5454-4ee2-b754-c205534e8249/index.html</link>
+            <guid isPermaLink="false">fc8b8976-5454-4ee2-b754-c205534e8249</guid>
+            <pubDate>Fri, 12 Feb 2016 08:14:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>this experimental website will be used to catalogue the various successes in my life, whether it's personal, career, or with anything else. </p>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Model D Steinway ]]></title>
-            <description><![CDATA[<article><h1>Model D Steinway </h1><p>Model D Steinway</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c693d2cb0b136abbd9e6be4e02a47a6269b209a7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Model D Steinway </h1><p>Model D Steinway</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffbccfb85f011655742bba7c4d2b6c9fb7ff6e10.png"></article>]]></description>
             <link>https://thegrid.ai/entrepreneur-life/model-d-steinway/index.html</link>
             <guid isPermaLink="false">47f75932-5a3c-4951-8537-ef8146b0cd50</guid>
             <pubDate>Fri, 12 Feb 2016 01:45:41 GMT</pubDate>
