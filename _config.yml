@@ -1,3 +1,7 @@
+name: Masamune
+favicon: null
+layout_spectrum: 0.9301075
+typography_spectrum: 0.327957
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8540989
-  brandStrength: 0.7903226
-  lightness: 0.6607167
   brandColors:
     - '#161D21'
     - '#A4D7FF'
     - '#FFFFFF'
     - '#666664'
     - '#A4A19B'
-  rhythmicContrast: 0.1072494
-typography_spectrum: 0.327957
-layout_spectrum: 0.9301075
-name: Entrepreneur Life
+  brandStrength: 0.7903226
+  lightness: 0.6607167
+  saturation: 0.125
+  rhythmicContrast: 0.25
+purpose: []
