@@ -1,41 +1,41 @@
-title: "PETER'S EXPERIMENT"
-purpose: []
+typography_spectrum: 0.06810036
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.483871
+title: "PETER'S EXPERIMENT"
+purpose: []
 color:
   saturation: 0.8799283
   brandStrength: 1
-  lightness: 0.4265233
+  rhythmicContrast: 0.8620071
   brandColors:
     - '#171615'
     - '#CED0C7'
     - '#FA9021'
     - '#915328'
     - '#7E7F77'
-  rhythmicContrast: 0.8620071
+  lightness: 0.4265233
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Masamune
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.06810036
-layout_spectrum: 0.483871
